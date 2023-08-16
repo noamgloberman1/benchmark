@@ -1,0 +1,136 @@
+23/08/13 10:46:30 INFO zkbenchmark.ZooKeeperBenchmark: Loading benchmark from configuration file: benchmark.conf
+23/08/13 10:46:30 INFO zkbenchmark.ZooKeeperBenchmark: benchmark set with: interval: 200 total number: 20000 threshold: 8000 time: 30000 sync: SYNC
+23/08/13 10:46:30 INFO zkbenchmark.BenchmarkClient: Client #0 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:46:30 INFO zkbenchmark.BenchmarkClient: Client #2 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:46:30 INFO zkbenchmark.BenchmarkClient: Client #1 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:47:02 INFO zkbenchmark.BenchmarkClient: Client #2 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:47:02 INFO zkbenchmark.BenchmarkClient: Client #0 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:47:02 INFO zkbenchmark.BenchmarkClient: Client #2 -- Current test complete. Completed 13335 operations.
+23/08/13 10:47:02 INFO zkbenchmark.BenchmarkClient: Client #0 -- Current test complete. Completed 13390 operations.
+23/08/13 10:47:02 INFO zkbenchmark.BenchmarkClient: Client #1 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:47:02 INFO zkbenchmark.BenchmarkClient: Client #1 -- Current test complete. Completed 13268 operations.
+23/08/13 10:47:02 INFO zkbenchmark.ZooKeeperBenchmark: READ finished, time elapsed (sec): 30.0 operations: 39993 avg rate: 1333.1
+23/08/13 10:47:02 INFO zkbenchmark.BenchmarkClient: Client #2 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:47:02 INFO zkbenchmark.BenchmarkClient: Client #1 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:47:02 INFO zkbenchmark.BenchmarkClient: Client #0 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:47:32 INFO zkbenchmark.BenchmarkClient: Client #0 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:47:32 INFO zkbenchmark.BenchmarkClient: Client #2 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:47:32 INFO zkbenchmark.BenchmarkClient: Client #0 -- Current test complete. Completed 14201 operations.
+23/08/13 10:47:32 INFO zkbenchmark.BenchmarkClient: Client #2 -- Current test complete. Completed 14310 operations.
+23/08/13 10:47:32 INFO zkbenchmark.BenchmarkClient: Client #1 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:47:32 INFO zkbenchmark.BenchmarkClient: Client #1 -- Current test complete. Completed 14203 operations.
+23/08/13 10:47:32 INFO zkbenchmark.ZooKeeperBenchmark: READ finished, time elapsed (sec): 30.0 operations: 42714 avg rate: 1423.8
+23/08/13 10:47:32 INFO zkbenchmark.BenchmarkClient: Client #1 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:47:32 INFO zkbenchmark.BenchmarkClient: Client #0 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:47:32 INFO zkbenchmark.BenchmarkClient: Client #2 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:48:02 INFO zkbenchmark.BenchmarkClient: Client #1 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:48:02 INFO zkbenchmark.BenchmarkClient: Client #0 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:48:02 INFO zkbenchmark.BenchmarkClient: Client #0 -- Current test complete. Completed 3229 operations.
+23/08/13 10:48:02 INFO zkbenchmark.BenchmarkClient: Client #1 -- Current test complete. Completed 3229 operations.
+23/08/13 10:48:02 INFO zkbenchmark.BenchmarkClient: Client #2 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:48:02 INFO zkbenchmark.BenchmarkClient: Client #2 -- Current test complete. Completed 3586 operations.
+23/08/13 10:48:02 INFO zkbenchmark.ZooKeeperBenchmark: SETSINGLE finished, time elapsed (sec): 30.0 operations: 10044 avg rate: 334.8
+23/08/13 10:48:02 INFO zkbenchmark.BenchmarkClient: Client #0 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:48:02 INFO zkbenchmark.BenchmarkClient: Client #1 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:48:02 INFO zkbenchmark.BenchmarkClient: Client #2 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:48:32 INFO zkbenchmark.BenchmarkClient: Client #2 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:48:32 INFO zkbenchmark.BenchmarkClient: Client #2 -- Current test complete. Completed 8811 operations.
+23/08/13 10:48:32 INFO zkbenchmark.BenchmarkClient: Client #0 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:48:32 INFO zkbenchmark.BenchmarkClient: Client #0 -- Current test complete. Completed 8086 operations.
+23/08/13 10:48:32 INFO zkbenchmark.BenchmarkClient: Client #1 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:48:32 INFO zkbenchmark.BenchmarkClient: Client #1 -- Current test complete. Completed 8031 operations.
+23/08/13 10:48:32 INFO zkbenchmark.ZooKeeperBenchmark: CREATE finished, time elapsed (sec): 30.0 operations: 24928 avg rate: 830.9333333333333
+23/08/13 10:48:32 INFO zkbenchmark.BenchmarkClient: Client #0 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:48:32 INFO zkbenchmark.BenchmarkClient: Client #1 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:48:32 INFO zkbenchmark.BenchmarkClient: Client #2 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:49:02 INFO zkbenchmark.BenchmarkClient: Client #0 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:49:02 INFO zkbenchmark.BenchmarkClient: Client #2 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:49:02 INFO zkbenchmark.BenchmarkClient: Client #1 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:49:02 INFO zkbenchmark.BenchmarkClient: Client #0 -- Current test complete. Completed 8590 operations.
+23/08/13 10:49:02 INFO zkbenchmark.BenchmarkClient: Client #1 -- Current test complete. Completed 8558 operations.
+23/08/13 10:49:02 INFO zkbenchmark.BenchmarkClient: Client #2 -- Current test complete. Completed 9424 operations.
+23/08/13 10:49:02 INFO zkbenchmark.ZooKeeperBenchmark: SETMULTI finished, time elapsed (sec): 30.0 operations: 26572 avg rate: 885.7333333333333
+23/08/13 10:49:02 INFO zkbenchmark.BenchmarkClient: Client #0 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:49:02 INFO zkbenchmark.BenchmarkClient: Client #1 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:49:02 INFO zkbenchmark.BenchmarkClient: Client #2 is sending srst command:
+srst is not executed because it is not in the whitelist.
+
+23/08/13 10:49:32 INFO zkbenchmark.BenchmarkClient: Client #1 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:49:32 INFO zkbenchmark.BenchmarkClient: Client #0 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:49:32 INFO zkbenchmark.BenchmarkClient: Client #2 is sending stat command:
+stat is not executed because it is not in the whitelist.
+
+23/08/13 10:49:32 INFO zkbenchmark.BenchmarkClient: Client #0 -- Current test complete. Completed 9220 operations.
+23/08/13 10:49:32 INFO zkbenchmark.BenchmarkClient: Client #2 -- Current test complete. Completed 10079 operations.
+23/08/13 10:49:32 INFO zkbenchmark.BenchmarkClient: Client #1 -- Current test complete. Completed 9152 operations.
+23/08/13 10:49:32 INFO zkbenchmark.ZooKeeperBenchmark: DELETE finished, time elapsed (sec): 30.0 operations: 28451 avg rate: 948.3666666666667
+23/08/13 10:49:32 INFO zkbenchmark.ZooKeeperBenchmark: Tests completed, now cleaning-up
+23/08/13 10:49:32 INFO zkbenchmark.ZooKeeperBenchmark: All tests are complete

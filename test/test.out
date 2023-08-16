@@ -1,0 +1,7 @@
+Detailed logs going to: zk-benchmark.log
+Running warm-up benchmark for 30 seconds... done
+Running znode read benchmark for 30 seconds... done
+Running repeated single-znode write benchmark for 30 seconds... done
+Running znode create benchmark for 30 seconds... done
+Running different znode write benchmark for 30 seconds... done
+Running znode delete benchmark for 30 seconds... done
